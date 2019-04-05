@@ -219,7 +219,8 @@
     border: none;
     outline: none;
     padding: 8px 10px;
-    min-width: 40px;
+		min-width: 55px;
+		height: 45px;
     margin: 0 2px;
     background: #EEE;
     color: #666;
@@ -240,6 +241,6 @@
   }
 
   .vue-keyboard-key[data-action="space"] {
-    min-width: 160px;
+		min-width: 240px;
   }
 </style>
